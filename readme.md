@@ -55,4 +55,24 @@ Para la instalación de la placa Esp32 debemos ir a IDE de Arduino para luego ir
 En la parte de preferencias nos ubicamos en “Gestor de URLs adicionales de tarjetas”
 Ahí debemos pegar el siguiente link https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json luego le damos aceptar y posteriormente debemos ir a la parte del gestor de tarjetas.
 
+![preferencias2]( https://github.com/udenarML/prueba/blob/main/imagenes/preferencias2.PNG)
+
+Ahí debemos buscar la librería como “esp32” y procedemos a instalar. Esto demora unos minutos.
+
+![gestoresp32]( https://github.com/udenarML/prueba/blob/main/imagenes/gestoresp32.png)
+
+Luego de la instalación debemos reiniciar el IDE para que todos los cambios se efectúen.
+Para corroborar la instalación de la placa procedemos a cargar el ejemplo de blink. Debemos
+Escoger la placa y realizar un cambio al programa ya que el pin que se conecta al led de la placa cambia según la versión de la placa, la marca y la referencia.
+
+![escoger placa]( https://github.com/udenarML/prueba/blob/main/imagenes/escoger_esp32.png)
+
+Para este ejemplo hemos usado la placa Esp32 llamada “Node MCU 32”. Esta trae el Led conectado de pin 2.
+
+![cambio blink]( https://github.com/udenarML/prueba/blob/main/imagenes/cambio%20blink.PNG)
+
+Realizado este cambio procedemos a cargar el programa y luego debemos ver el led parpadeando.
+
+
+
 
