@@ -52,6 +52,8 @@ Por último, cargamos el ejemplo y debemos observar que el LED de la placa empez
 ### Librería para la tarjeta Esp32.
 Para la instalación de la placa Esp32 debemos ir a IDE de Arduino para luego ir a la parte de Archivo y seguido a Preferencias.
 
+![preferencia](https://github.com/udenarML/prueba/blob/main/imagenes/preferencias.png)
+
 En la parte de preferencias nos ubicamos en “Gestor de URLs adicionales de tarjetas”
 Ahí debemos pegar el siguiente link https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json luego le damos aceptar y posteriormente debemos ir a la parte del gestor de tarjetas.
 
