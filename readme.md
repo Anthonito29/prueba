@@ -17,7 +17,7 @@ Para desarrollar este ejemplo debemos tener instalado algunas herramientas como 
 -	Librería para la tarjeta Raspberry Pi Pico.
 -	Coolterm.
 -	Entorno de Google Colaboratory.
-### Librería para la tarjeta Arduino Nano 33 Ble Sense.
+## Librería para la tarjeta Arduino Nano 33 Ble Sense.
 Para realizar la instalación debemos abrir el IDE de Arduino y posteriormente remitirnos al gestor de tarjetas de este modo:
 - Herramientas.
    - Placa.
@@ -49,7 +49,7 @@ Cuando la placa empieza a iluminar el led de color naranja procedemos a escoger 
 Por último, cargamos el ejemplo y debemos observar que el LED de la placa empezara a parpadear.
 
 
-### Librería para la tarjeta Esp32.
+## Librería para la tarjeta Esp32.
 Para la instalación de la placa Esp32 debemos ir a IDE de Arduino para luego ir a la parte de Archivo y seguido a Preferencias.
 
 ![preferencia](https://github.com/udenarML/prueba/blob/main/imagenes/preferencias.png)
@@ -75,6 +75,7 @@ Para este ejemplo hemos usado la placa Esp32 llamada “Node MCU 32”. Esta tra
 
 Realizado este cambio procedemos a cargar el programa y luego debemos ver el led parpadeando.
 
+## Libreria para la tarjeta Raspberry Pi Pico.
 
 
 
