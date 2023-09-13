@@ -9,3 +9,18 @@ Opciones como la programación convencional resulta mas compleja para sistemas q
 Debido a esto se decidió crear un modelo de machine learning que busque reconocer colores de un objeto a travez de un entrenamiento con una base de datos de colores que abarque todos esos cambios posibles.
 Para desarrollar esta idea tomamos 4 objetos de diferentes colores y los pusimos en un lugar con una iluminación variable y controlada.
 Los objetos son rollos de cinta de diferentes colores (Rojo, Azul, Amarillo, Verde). Se ha creado una base de datos para cada placa debido a que la placa Arduino Nano 33 Ble ya incorpora este sensor en su misma PCB y las demás placas usan un módulo separado de este sensor.
+
+## Requisitos.
+Para desarrollar este ejemplo debemos tener instalado algunas herramientas como son:
+-	Librería para la tarjeta Arduino Nano 33 Ble Sense.
+-	Librería para la tarjeta Esp32.
+-	Librería para la tarjeta Raspberry Pi Pico.
+-	Coolterm.
+-	Entorno de Google Colaboratory.
+### Librería para la tarjeta Arduino Nano 33 Ble Sense.
+Para realizar la instalación debemos abrir el IDE de Arduino y posteriormente remitirnos al gestor de tarjetas de este modo:
+- Herramientas.
+   - Placa.
+	   - Gestor de tarjetas.
+![]()
+
