@@ -21,7 +21,8 @@ Para desarrollar este ejemplo debemos tener instalado algunas herramientas como 
 Para realizar la instalación debemos abrir el IDE de Arduino y posteriormente remitirnos al gestor de tarjetas de este modo:
 - Herramientas.
    - Placa.
-	   - Gestor de tarjetas.
+	 - Gestor de tarjetas.
+       
 ![Gestor1]( https://github.com/udenarML/prueba/blob/main/imagenes/gestor1.png)
 
 Ya en el gestor de placas debemos buscar la librería como “Arduino Mbed OS Nano Boards”
@@ -46,5 +47,12 @@ Cuando la placa empieza a iluminar el led de color naranja procedemos a escoger 
 ![puerto]( https://github.com/udenarML/prueba/blob/main/imagenes/puerto.png)
 
 Por último, cargamos el ejemplo y debemos observar que el LED de la placa empezara a parpadear.
+
+
+### Librería para la tarjeta Esp32.
+Para la instalación de la placa Esp32 debemos ir a IDE de Arduino para luego ir a la parte de Archivo y seguido a Preferencias.
+
+En la parte de preferencias nos ubicamos en “Gestor de URLs adicionales de tarjetas”
+Ahí debemos pegar el siguiente link https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json luego le damos aceptar y posteriormente debemos ir a la parte del gestor de tarjetas.
 
 
