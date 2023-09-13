@@ -22,20 +22,20 @@ Para realizar la instalación debemos abrir el IDE de Arduino y posteriormente r
 - Herramientas.
    - Placa.
 	   - Gestor de tarjetas.
-¡[Gestor1]( https://github.com/udenarML/prueba/blob/main/imagenes/gestor1.png)
+![Gestor1]( https://github.com/udenarML/prueba/blob/main/imagenes/gestor1.png)
 
 Ya en el gestor de placas debemos buscar la librería como “Arduino Mbed OS Nano Boards”
 
-¡[gestor]( https://github.com/udenarML/prueba/blob/main/imagenes/gestor.PNG)
+![gestor]( https://github.com/udenarML/prueba/blob/main/imagenes/gestor.PNG)
 
 Para corroborar que la placa se instalo correctamente procedemos a cargar un programa para un parpadeo de un led.
 Primero debemos escoger la placa correspondiente de esta manera:
 
-¡[escoger placa]( https://github.com/udenarML/prueba/blob/main/imagenes/escoger%20placa.png)
+![escoger placa]( https://github.com/udenarML/prueba/blob/main/imagenes/escoger%20placa.png)
 
 Luego de esto debemos escoger el ejemplo asi:
 
-¡[blink]( https://github.com/udenarML/prueba/blob/main/imagenes/blink.png)
+![blink]( https://github.com/udenarML/prueba/blob/main/imagenes/blink.png)
 
 Finalmente cargamos el ejemplo. Para esto debemos conectar la placa y presionar dos veces el botón de reset para que la placa entre en modo de programación.
 
@@ -43,7 +43,7 @@ Cuando la placa empieza a iluminar el led de color naranja procedemos a escoger 
 
 ** Nota ** este puerto cambio según el modo en que este la placa.
 
-¡[puerto]( https://github.com/udenarML/prueba/blob/main/imagenes/puerto.png)
+![puerto]( https://github.com/udenarML/prueba/blob/main/imagenes/puerto.png)
 
 Por último, cargamos el ejemplo y debemos observar que el LED de la placa empezara a parpadear.
 
