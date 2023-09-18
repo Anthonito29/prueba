@@ -75,7 +75,25 @@ Para este ejemplo hemos usado la placa Esp32 llamada “Node MCU 32”. Esta tra
 
 Realizado este cambio procedemos a cargar el programa y luego debemos ver el led parpadeando.
 
-## Libreria para la tarjeta Raspberry Pi Pico.
+## Librería para la tarjeta Raspberry Pi Pico.
+Para la instalación de esta placa debemos ir al gestor de tarjetas y hacer la búsqueda asi” Arduino Mbed OS RP2040”
+
+¡[gestor_pico]()
+
+Luego de instalar la librería debemos escoger la placa de Raspberry pi pico en Arduino asi:
+
+¡[escoger pico]()
+
+Asi con la placa seleccionada procedemos a cargar un ejemplo de prueba, asi que nos dirigimos a el ejemplo de blink y realizamos el siguiente cambio:
+
+¡[cambio_blink_pico]()
+
+Asi con este cambio realizamos la compilación del ejemplo. Como la placa Raspberry Pi Pico no está asignada a ningún puerto COM la primera vez que la usamos, debemos cargar el ejemplo sin escoger el puerto. Asi luego de que compile la placa ya será reconocida por el IDE de Arduino de este modo procedemos a seleccionar el puerto que le asignaron y volvemos a cargar el ejemplo.
+
+¡[puerto_pico]()
+
+Finalmente debemos ver que el led parpadea en la placa.
+
 
 
 
