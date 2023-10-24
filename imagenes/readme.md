@@ -3,17 +3,19 @@ Debemos cargar el archivo “Capture_color.ino” para capturar los datos que re
 Con el programa cargado procedemos a realizar pruebas acercando algún objeto. Debe recibir valores parecidos a estos:
 
 IMAGEN DE CAPTURA DATOS SERIAL.
+
 Para realizar de manera mas adecuada el experimento hemos puesto los objetos a censar debajo de una iluminación LED la cual podemos variar su intensidad con el fin de simular cambios de iluminación.
 
 DIAGRAMA MONTAJE.
 FOTO MONTAJE.
+
 Con el montaje realizado es hora de crear la base de datos. Para esto usamos el programa llamado “COOLTERM” que nos permite la comunicación de la placa de desarrollo con la PC, además automatiza el grabado de los datos.
 
 IMAGEN COOLTERM.
 
 En primer lugar debemos configurar el puerto y la velocidad de trasmisión. Para esto debemos seguir los siguientes pasos.
-
-      Connection---- Options.
+ * Connection
+            -Options.
 
 Cuando demos clic aparecerá una ventana nueva.
 
@@ -36,7 +38,7 @@ El objeto debe estar colocado frente al sensor antes de conectar la placa.
 
 Ahora procedemos a conectar la placa con el botón llamado connect que tiene un icono de un puerto USB.
 
-### **Nota:** 
+**Nota:** 
 es recomendable antes de conectar la placa. Resetearla por medio de el botón de reset o desconectando y conectándola de nuevo.
 Con todo listo procedemos a conectar la placa y esta enseguida empieza a enviar datos, ahí es cuando por medio de un potenciómetro modificamos la intensidad de la iluminación de una manera suave para que se capturen datos de color en diferentes cantidades de iluminación.
 El proceso de captura dura unos pocos minutos, este proceso es para la captura de un objeto asi que debemos repetirlo para los demás objetos.
