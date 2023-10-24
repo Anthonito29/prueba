@@ -36,7 +36,7 @@ El objeto debe estar colocado frente al sensor antes de conectar la placa.
 
 Ahora procedemos a conectar la placa con el botón llamado connect que tiene un icono de un puerto USB.
 
-Nota:  es recomendable antes de conectar la placa. Resetearla por medio de el botón de reset o desconectando y conectándola de nuevo.
+** Nota: **  es recomendable antes de conectar la placa. Resetearla por medio de el botón de reset o desconectando y conectándola de nuevo.
 Con todo listo procedemos a conectar la placa y esta enseguida empieza a enviar datos, ahí es cuando por medio de un potenciómetro modificamos la intensidad de la iluminación de una manera suave para que se capturen datos de color en diferentes cantidades de iluminación.
 El proceso de captura dura unos pocos minutos, este proceso es para la captura de un objeto asi que debemos repetirlo para los demás objetos.
 Para terminar la grabación debemos dirigirnos a:
