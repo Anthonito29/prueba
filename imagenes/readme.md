@@ -15,7 +15,8 @@ IMAGEN COOLTERM.
 
 En primer lugar debemos configurar el puerto y la velocidad de trasmisión. Para esto debemos seguir los siguientes pasos.
  *. Connection
-            -Options.
+             -Options.
+            
 
 Cuando demos clic aparecerá una ventana nueva.
 
@@ -26,7 +27,9 @@ Luego de esto le damos en OK y la placa estará configurada.
 Antes de nada, es necesario crear una carpeta en donde se guardarán los archivos.
 En el programa coolterm debemos seguir unos pasos para crear el archivo donde se almacenarán los datos.
 
-Connection—-capture text/ binary file—-Start
+*. Connection
+            -capture text/ binary file
+                        -Start
 
 Cuando demos clic en Start aparecerá una ventana en donde podremos elegir en donde guardar el archivo y además podemos cambiar el nombre y su extensión.
 Asi pues para crear el archivo nos dirigimos a la carpeta que creamos y luego cambiamos el nombre del archivo por ejemplo “Amarillo.csv” y antes de guardar debemos cambiar el tipo de archivo, para esto debemos dar clic en la pestaña de tipo y elegir la opción de “All files”
