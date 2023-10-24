@@ -36,7 +36,7 @@ El objeto debe estar colocado frente al sensor antes de conectar la placa.
 
 Ahora procedemos a conectar la placa con el botón llamado connect que tiene un icono de un puerto USB.
 
-* Nota: * es recomendable antes de conectar la placa. Resetearla por medio de el botón de reset o desconectando y conectándola de nuevo.
+Nota:  es recomendable antes de conectar la placa. Resetearla por medio de el botón de reset o desconectando y conectándola de nuevo.
 Con todo listo procedemos a conectar la placa y esta enseguida empieza a enviar datos, ahí es cuando por medio de un potenciómetro modificamos la intensidad de la iluminación de una manera suave para que se capturen datos de color en diferentes cantidades de iluminación.
 El proceso de captura dura unos pocos minutos, este proceso es para la captura de un objeto asi que debemos repetirlo para los demás objetos.
 Para terminar la grabación debemos dirigirnos a:
@@ -49,7 +49,7 @@ IMAGEN ARCHIVO ABIERTO.
 
 El archivo debe contener el encabezado R, G, B. si este no aparece debemos ponerlo manualmente.
 
-2)	Entrenamiento.
+# 2)	Entrenamiento.
 Hemos creado un cuaderno de Google colab con la programación en Python del entrenamiento del modelo y su conversión usando TensorFlow y TensorFlow lite.
 En este cuaderno esta la explicación detallada del código usado.
 Para el desarrollo de este cuaderno deberá de copiarlo en un archivo nuevo creado en su propio entorno.
