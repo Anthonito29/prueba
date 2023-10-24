@@ -48,7 +48,9 @@ Con todo listo procedemos a conectar la placa y esta enseguida empieza a enviar 
 El proceso de captura dura unos pocos minutos, este proceso es para la captura de un objeto asi que debemos repetirlo para los demás objetos.
 Para terminar la grabación debemos dirigirnos a:
 
-Connection—capture/binary—stop.
+ - Connection.
+     - Capture Text/ Binary File.
+          - Stop. 
 
 Para verificar si el archivo contiene los datos debemos abrirlo con algún programa como Excel o bloc de notas.
 
