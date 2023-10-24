@@ -14,7 +14,7 @@ Con el montaje realizado es hora de crear la base de datos. Para esto usamos el 
 IMAGEN COOLTERM.
 
 En primer lugar debemos configurar el puerto y la velocidad de trasmisión. Para esto debemos seguir los siguientes pasos.
- * Connection
+ *. Connection
             -Options.
 
 Cuando demos clic aparecerá una ventana nueva.
